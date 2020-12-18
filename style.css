@@ -112,3 +112,9 @@
  .addBtn:hover {
    background-color: #bbb;
  }
+
+
+ #content {
+  padding: 50px 0 75px 0;
+  background-image: url("./sample-pattern.png");
+}
